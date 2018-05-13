@@ -1,0 +1,378 @@
+[{
+  "productType":"Banana",
+  "saleCount":1,
+  "unitPrice":10,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Banana",
+  "saleCount":4,
+  "unitPrice":10.23,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Banana",
+  "saleCount":3,
+  "unitPrice":11,
+  "adjustmentType":"ADD",
+  "adjustmentPrice":20
+},
+{
+  "productType":"Mango",
+  "saleCount":3,
+  "unitPrice":7.23,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Mango",
+  "saleCount":4,
+  "unitPrice":7,
+  "adjustmentType":"ADD",
+  "adjustmentPrice":2
+},
+{
+  "productType":"Mango",
+  "saleCount":2,
+  "unitPrice":5.3,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Apple",
+  "saleCount":5,
+  "unitPrice":14,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Apple",
+  "saleCount":10,
+  "unitPrice":15,
+  "adjustmentType":"MUL",
+  "adjustmentPrice":2
+},
+{
+  "productType":"Apple",
+  "saleCount":2,
+  "unitPrice":5,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Banana",
+  "saleCount":3,
+  "unitPrice":10,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Banana",
+  "saleCount":2,
+  "unitPrice":11.23,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Banana",
+  "saleCount":1,
+  "unitPrice":10,
+  "adjustmentType":"SUB",
+  "adjustmentPrice":4.5
+},
+{
+  "productType":"Mango",
+  "saleCount":5,
+  "unitPrice":9.23,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Mango",
+  "saleCount":3,
+  "unitPrice":7.6,
+  "adjustmentType":"MUL",
+  "adjustmentPrice":2
+},
+{
+  "productType":"Mango",
+  "saleCount":3,
+  "unitPrice":7.3,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Apple",
+  "saleCount":5,
+  "unitPrice":14,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Apple",
+  "saleCount":10,
+  "unitPrice":15,
+  "adjustmentType":"ADD",
+  "adjustmentPrice":2
+},
+{
+  "productType":"Apple",
+  "saleCount":2,
+  "unitPrice":5,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Banana",
+  "saleCount":1,
+  "unitPrice":10,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Banana",
+  "saleCount":4,
+  "unitPrice":10.23,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Banana",
+  "saleCount":3,
+  "unitPrice":11,
+  "adjustmentType":"ADD",
+  "adjustmentPrice":20
+},
+{
+  "productType":"Mango",
+  "saleCount":3,
+  "unitPrice":7.23,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Mango",
+  "saleCount":4,
+  "unitPrice":7,
+  "adjustmentType":"ADD",
+  "adjustmentPrice":2
+},
+{
+  "productType":"Mango",
+  "saleCount":2,
+  "unitPrice":5.3,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Apple",
+  "saleCount":5,
+  "unitPrice":14,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Apple",
+  "saleCount":10,
+  "unitPrice":15,
+  "adjustmentType":"MUL",
+  "adjustmentPrice":2
+},
+{
+  "productType":"Apple",
+  "saleCount":2,
+  "unitPrice":5,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Banana",
+  "saleCount":3,
+  "unitPrice":10,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Banana",
+  "saleCount":2,
+  "unitPrice":11.23,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Banana",
+  "saleCount":1,
+  "unitPrice":10,
+  "adjustmentType":"SUB",
+  "adjustmentPrice":4.5
+},
+{
+  "productType":"Mango",
+  "saleCount":5,
+  "unitPrice":9.23,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Mango",
+  "saleCount":3,
+  "unitPrice":7.6,
+  "adjustmentType":"MUL",
+  "adjustmentPrice":2
+},
+{
+  "productType":"Mango",
+  "saleCount":3,
+  "unitPrice":7.3,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Apple",
+  "saleCount":5,
+  "unitPrice":14,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Apple",
+  "saleCount":10,
+  "unitPrice":15,
+  "adjustmentType":"ADD",
+  "adjustmentPrice":2
+},
+{
+  "productType":"Apple",
+  "saleCount":2,
+  "unitPrice":5,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Banana",
+  "saleCount":1,
+  "unitPrice":10,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Banana",
+  "saleCount":4,
+  "unitPrice":10.23,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Banana",
+  "saleCount":3,
+  "unitPrice":11,
+  "adjustmentType":"ADD",
+  "adjustmentPrice":20
+},
+{
+  "productType":"Mango",
+  "saleCount":3,
+  "unitPrice":7.23,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Mango",
+  "saleCount":4,
+  "unitPrice":7,
+  "adjustmentType":"ADD",
+  "adjustmentPrice":2
+},
+{
+  "productType":"Mango",
+  "saleCount":2,
+  "unitPrice":5.3,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Apple",
+  "saleCount":5,
+  "unitPrice":14,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Apple",
+  "saleCount":10,
+  "unitPrice":15,
+  "adjustmentType":"MUL",
+  "adjustmentPrice":2
+},
+{
+  "productType":"Apple",
+  "saleCount":2,
+  "unitPrice":5,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Banana",
+  "saleCount":3,
+  "unitPrice":10,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Banana",
+  "saleCount":2,
+  "unitPrice":11.23,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Banana",
+  "saleCount":1,
+  "unitPrice":10,
+  "adjustmentType":"SUB",
+  "adjustmentPrice":4.5
+},
+{
+  "productType":"Mango",
+  "saleCount":5,
+  "unitPrice":9.23,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Mango",
+  "saleCount":3,
+  "unitPrice":7.6,
+  "adjustmentType":"MUL",
+  "adjustmentPrice":2
+},
+{
+  "productType":"Mango",
+  "saleCount":3,
+  "unitPrice":7.3,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Apple",
+  "saleCount":5,
+  "unitPrice":14,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+},
+{
+  "productType":"Apple",
+  "saleCount":10,
+  "unitPrice":15,
+  "adjustmentType":"ADD",
+  "adjustmentPrice":2
+},
+{
+  "productType":"Apple",
+  "saleCount":2,
+  "unitPrice":5,
+  "adjsutmentType":null,
+  "adjustmentPrice":null
+}]
